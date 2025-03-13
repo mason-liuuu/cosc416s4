@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{700351FA-B1FE-6489-304F-F2FDCC5C9922}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/InputManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="8" Column="56" />
+      <File FileName="Assets/Scripts/InputManager.cs" Line="40" Column="48" />
+      <File FileName="Assets/Scripts/Editor/ResetTransform.cs" />
+      <File FileName="Assets/Scripts/Logic/PlayerController.cs" />
+      <File FileName="Assets/Scripts/Logic/Coin.cs" />
+      <File FileName="Assets/Scripts/Utils/SingletonMonoBehaviour.cs" />
+      <File FileName="Assets/Scripts/Utils/VectorExtensions.cs" />
+      <File FileName="Assets/Scripts/Utils/GameObjectExtensions.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="COSC 416 S4" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Editor" expanded="True" />
+                <Node name="Logic" expanded="True" />
+                <Node name="Utils" expanded="True" />
+                <Node name="GameManager.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2a9816b8-2c6b-4407-bcf9-d9056ca151d2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
